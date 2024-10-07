@@ -1,0 +1,213 @@
+[
+    {
+      "name": "Mumbai",
+      "lat": "19.0760",
+      "lon": "72.8777",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/42/Marine_Drive_Mumbai.jpg"
+    },
+    {
+      "name": "Delhi",
+      "lat": "28.6139",
+      "lon": "77.2090",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Qutub_Minara.jpg"
+    },
+    {
+      "name": "Bengaluru",
+      "lat": "12.9716",
+      "lon": "77.5946",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/41/India_Bangalore.jpg"
+    },
+    {
+      "name": "Hyderabad",
+      "lat": "17.3850",
+      "lon": "78.4867",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Charminar_%28Hyderabad%29.jpg"
+    },
+    {
+      "name": "Ahmedabad",
+      "lat": "23.0225",
+      "lon": "72.5714",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/42/Sabarmati_Gandhi_Ashram.JPG"
+    },
+    {
+      "name": "Chennai",
+      "lat": "13.0827",
+      "lon": "80.2707",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/30/Marina_Beach.jpg"
+    },
+    {
+      "name": "Kolkata",
+      "lat": "22.5726",
+      "lon": "88.3639",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Howrah_Bridge_Kolkata.jpg"
+    },
+    {
+      "name": "Surat",
+      "lat": "21.1702",
+      "lon": "72.8311",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Surat_-_Sardar_Patel_Museum.jpg"
+    },
+    {
+      "name": "Pune",
+      "lat": "18.5204",
+      "lon": "73.8567",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Shaniwar_Wada_2016.jpg"
+    },
+    {
+      "name": "Jaipur",
+      "lat": "26.9124",
+      "lon": "75.7873",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/59/Hawa_Mahal_%28Jaipur%29.jpg"
+    },
+    {
+      "name": "Lucknow",
+      "lat": "26.8467",
+      "lon": "80.9462",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/55/Bara_Imambara_Lucknow.JPG"
+    },
+    {
+      "name": "Kanpur",
+      "lat": "26.4499",
+      "lon": "80.3319",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/45/Allen_Forest_Zoo_kanpur.jpg"
+    },
+    {
+      "name": "Nagpur",
+      "lat": "21.1458",
+      "lon": "79.0882",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/07/Deekshabhoomi_Nagpur.jpg"
+    },
+    {
+      "name": "Indore",
+      "lat": "22.7196",
+      "lon": "75.8577",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Indore_City.jpg"
+    },
+    {
+      "name": "Thane",
+      "lat": "19.2183",
+      "lon": "73.0781",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/27/Upvan_Lake.jpg"
+    },
+    {
+      "name": "Bhopal",
+      "lat": "23.2599",
+      "lon": "77.4126",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/76/Upper_Lake_Bhopal.jpg"
+    },
+    {
+      "name": "Coimbatore",
+      "lat": "11.0168",
+      "lon": "76.9558",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/28/Marudamalai_Temple.jpg"
+    },
+    {
+      "name": "Patna",
+      "lat": "25.5941",
+      "lon": "85.1376",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Golghar%2C_Patna.jpg"
+    },
+    {
+      "name": "Vadodara",
+      "lat": "22.3074",
+      "lon": "73.1812",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/39/Laxmi_Vilas_Palace.jpg"
+    },
+    {
+      "name": "Faridabad",
+      "lat": "28.4082",
+      "lon": "77.3178",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/03/Baba_Farid_Tomb.jpg"
+    },
+    {
+      "name": "Ghaziabad",
+      "lat": "28.6667",
+      "lon": "77.4167",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/48/City_park_Ghaziabad.jpg"
+    },
+    {
+      "name": "Ludhiana",
+      "lat": "30.9002",
+      "lon": "75.8573",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Ludhiana%2C_Clock_Tower.jpg"
+    },
+    {
+      "name": "Agra",
+      "lat": "27.1767",
+      "lon": "78.0081",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Taj_Mahal_%28South_East_View%29.jpg"
+    },
+    {
+      "name": "Nashik",
+      "lat": "20.0110",
+      "lon": "73.7747",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Sula_Winery_%28Nashik%29.jpg"
+    },
+    {
+      "name": "Meerut",
+      "lat": "28.9845",
+      "lon": "77.7066",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Meerut_City.jpg"
+    },
+    {
+      "name": "Jabalpur",
+      "lat": "23.1815",
+      "lon": "79.9500",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Dhuandhar_Falls%2C_Jabalpur.jpg"
+    },
+    {
+      "name": "Bhubaneswar",
+      "lat": "20.2961",
+      "lon": "85.8245",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/31/Lingaraj_Temple_Bhubaneswar.JPG"
+    },
+    {
+      "name": "Mysuru",
+      "lat": "12.2958",
+      "lon": "76.6394",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Mysore_Palace.jpg"
+    },
+    {
+      "name": "Dehradun",
+      "lat": "30.3165",
+      "lon": "78.0322",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Forest_Research_Institute_Dehradun.jpg"
+    },
+    {
+      "name": "Shimla",
+      "lat": "31.1048",
+      "lon": "77.1664",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e6/The_Ridge_Shimla.jpg"
+    },
+    {
+      "name": "Chandigarh",
+      "lat": "30.7333",
+      "lon": "76.7794",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Chandigarh-Rose_Garden.jpg"
+    },
+    {
+      "name": "Ranchi",
+      "lat": "23.3441",
+      "lon": "85.3096",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/27/Tagore_Hill_Ranchi.jpg"
+    },
+    {
+      "name": "Raipur",
+      "lat": "21.2514",
+      "lon": "81.6296",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/85/Raipur_Fort.jpg"
+    },
+    {
+      "name": "Gwalior",
+      "lat": "26.2183",
+      "lon": "78.1828",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/56/Gwalior_Fort.jpg"
+    },
+    {
+      "name": "Bhopal",
+      "lat": "23.2599",
+      "lon": "77.4126",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/76/Upper_Lake_Bhopal.jpg"
+    }
+  ]
+  
